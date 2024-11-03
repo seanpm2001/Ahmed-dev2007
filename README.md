@@ -29,3 +29,10 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-dev2007&" alt="ahmed-dev2007" /></p>
+
+
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Ahmed-dev2007/Ahmed-dev2007/output/snake.svg" alt="Snake animation" />
+
+###
