@@ -1,8 +1,13 @@
+<h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-dev2007&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-dev2007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-dev2007" alt="ahmed-dev2007" /></a> </p>
+
+- 🌱 I’m currently learning **MongoDB**
+
+- 📫 How to reach me **Ahmedoffical.110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-dev2007&show_icons=true&locale=en&layout=compact" alt="ahmed-dev2007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-dev2007&show_icons=true&locale=en" alt="ahmed-dev2007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-dev2007&" alt="ahmed-dev2007" /></p>
