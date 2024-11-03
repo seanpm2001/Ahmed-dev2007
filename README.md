@@ -26,13 +26,7 @@
 
 ###
 
-###
 
-<br>
-
-<img align="right" height="150" src="https://raw.githubusercontent.com/Ahmed-dev2007/Ahmed-dev2007/main/github-animation.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
