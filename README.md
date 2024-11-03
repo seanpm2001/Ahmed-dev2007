@@ -67,7 +67,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-dev2007&" alt="ahmed-dev2007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-dev2007&" alt="ahmed-dev2007"/></p>
 
 
 
