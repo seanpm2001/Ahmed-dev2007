@@ -36,3 +36,10 @@
 <img src="https://raw.githubusercontent.com/Ahmed-dev2007/Ahmed-dev2007/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
