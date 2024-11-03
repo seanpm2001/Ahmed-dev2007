@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-dev2007&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-dev2007" /></p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-dev2007/Ahmed-dev2007/main/gihub.banner.jfif" alt="Zulfiqar Ali"  />
-</div>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-dev2007" alt="ahmed-dev2007" /></a> </p>
 
