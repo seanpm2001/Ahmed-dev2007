@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Muhammad and I'm a Front-End developer , from Pakistan.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-dev2007&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-dev2007" /></p>
 
